@@ -1,6 +1,6 @@
-<h1 align="center">Whaticket Baileys |Canal Vem Fazer</h1>
+<h1 align="center">Whaticket Baileys</h1>
 
-<h1 align="center">https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</h1>
+<p><b>Origem:</b>https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ</p>
 
 
 ## Vamos instalar?
